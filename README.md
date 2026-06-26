@@ -3,7 +3,7 @@
 This bot is an AI assistant that automatically responds to mentions and tweet replies on Twitter.
 ## Contact
 
-[Telegram](https://t.me/microRustyme)
+[soulcrancerdev](https://t.me/soulcrancerdev)
 
 ## Features
 
